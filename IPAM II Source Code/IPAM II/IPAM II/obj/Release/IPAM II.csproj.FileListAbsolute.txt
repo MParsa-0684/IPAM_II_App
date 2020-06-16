@@ -1,0 +1,9 @@
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\bin\Release\IPAM II.exe.config
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\bin\Release\IPAM II.exe
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\bin\Release\IPAM II.pdb
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\obj\Release\IPAM_II.Form1.resources
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\obj\Release\IPAM_II.Form2.resources
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\obj\Release\IPAM_II.Properties.Resources.resources
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\obj\Release\IPAM II.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\obj\Release\IPAM II.exe
+C:\Users\Parsa Arani\Desktop\IPAM II\IPAM\IPAM II\obj\Release\IPAM II.pdb
